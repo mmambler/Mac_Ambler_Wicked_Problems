@@ -10,4 +10,4 @@ This is the repository for my Wicked Problems projects.
 
 ### - A Person's Path Between Homes Plot
 
-
+![](plot_zoom_png)
