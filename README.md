@@ -4,10 +4,6 @@ This is the repository for my Wicked Problems projects.
 
 ## Getting Started with R Exercises
 
-### - The Path of a Running Boy Plot
+[The Path of a Running Boy](path_of_a_running_boy.md)
 
-[Mac_Ambler_Wicked_Problems](path_of_a_running_boy.md)
-
-### - A Person's Path Between Homes Plot
-
-![]()
+[]()
