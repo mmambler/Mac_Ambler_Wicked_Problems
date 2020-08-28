@@ -8,5 +8,5 @@ This is the repository for my Wicked Problems projects.
 
 [Creating a More Complicated Plot](creating_a_more_complicated_plot.md)
 
-[Challenge Question](challenge_question.md)
+[Challenge Question](challenge_question)
 
