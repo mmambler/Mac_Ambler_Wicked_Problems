@@ -7,3 +7,5 @@ This is the repository for my Wicked Problems projects.
 [The Path of a Running Boy](path_of_a_running_boy.md)
 
 [Creating a More Complicated Plot](creating_a_more_complicated_plot.md)
+
+[Challenge Question](challenge_question.md)
