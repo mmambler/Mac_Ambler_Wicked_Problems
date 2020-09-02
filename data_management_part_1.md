@@ -11,3 +11,5 @@
 ![](diff_per_female_source_vs_remote_plot)
 
 # Population Density of Each County
+
+![](pop_density_plot)
