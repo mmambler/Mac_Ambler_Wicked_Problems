@@ -12,4 +12,4 @@ This is the repository for my Wicked Problems projects.
 
 ## Data Management
 
-[Part 1](data_management_part_1.md)
+[Part 1 Plots](data_management_part_1.md)
