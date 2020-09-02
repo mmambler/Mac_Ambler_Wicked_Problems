@@ -4,6 +4,8 @@
 
 # Difference in Total Population Between Source and Remote Data
 
+![](diff_total_pop_source_vs_remote_plot)
+
 # Difference in Percent Female Between Source and Remote Data
 
 # Population Density of Each County
