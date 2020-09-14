@@ -22,4 +22,4 @@ This is the repository for my Wicked Problems projects.
 
 ## Fundamentals
 
-[Part 1 Plot](
+[Part 1 Plot](state_pop_growth_plot.md)
