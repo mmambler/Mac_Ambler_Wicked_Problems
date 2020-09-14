@@ -19,3 +19,7 @@ This is the repository for my Wicked Problems projects.
 ## Data Science Reflections
 
 [Data Science Reflection #1](data_science_reflection_1.md)
+
+## Fundamentals
+
+[Part 1 Plot](
