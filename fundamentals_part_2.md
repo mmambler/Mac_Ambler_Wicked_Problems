@@ -1,4 +1,4 @@
 # Fundamentals - Part 2 Plots
-![Absolute Increase in Population](abs_increase_in_pop.md)
+![Absolute Increase in Population](abs_pop_growth_plot)
 
-![Average Growth Rate of Population](avg_growth_rate_plot.md)
+![Average Growth Rate of Population](avg_growth_rate_plot)
