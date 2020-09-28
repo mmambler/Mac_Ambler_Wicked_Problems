@@ -28,4 +28,4 @@ This is the repository for my Wicked Problems projects.
 
 ## Data Science
 
-[Part 1 Plot](data_science_part_1)
+[Part 1 Plot](data_science_part_1.md)
