@@ -2,4 +2,4 @@
 
 ![](nike_stock_model)
 
-![](nike_stock_model_summary)
+![](nike_stock_model_summary.png)
