@@ -9,3 +9,8 @@ The Rapsodo Pitching monitor is triangular in shape and designed to be positione
 This technology is extremely useful for baseball players and coaches for a variety of reasons. Firstly, Rapsodo could serve as an excellent teaching tool for coaches of young athletes, providing close analysis of players’ pitches so issues and bad habits can be corrected before they can turn into muscle memory. Additionally, both professional and amature players can use this to modify their pitching form and see how it affects the data, looking to produce more desirable outcomes such as increased spin rate, velocity, or break. This could even possibly be used to classify a pitcher’s skill set and compare them to other players with those same skills that have found success. The athlete can then have a model of success to strive for and can improve in certain key areas to become the best player they can be. 
 
 Ultimately, this is yet another analytical advancement in a field that has been on the forefront of the data revolution in recent years. If teams can continue to create and innovate new technologies to better collect, interpret, and communicate data, it is likely that the way games are won and lost will forever be changed, and Rapsodo is a prime example of this.
+
+Sources:
+- Taylor, Tom. “Rapsodo Baseball Pitch Analysis Technology Review.” Sports Illustrated, 29 Nov. 2016, www.si.com/edge/2016/11/29/rapsodo-baseball-mlb-pitch-tracking-camera-metrics-craig-breslow. 
+- Ward, M. James. “Interview with Art Chou, GM Rapsodo.” Golf Today, 16 Apr. 2020, golftoday.co.uk/interview-with-art-chou-general-manager-north-america-rapsodo/. 
+- “Pitching.” Rapsodo, 10 June 2020, rapsodo.com/baseball/pitching/. 
