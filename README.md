@@ -20,6 +20,8 @@ This is the repository for my Wicked Problems projects.
 
 [Data Science Reflection #1](data_science_reflection_1.md)
 
+[Data Science Reflection #2](data_science_reflection_2.md)
+
 ## Fundamentals
 
 [Part 1 Plot](state_pop_growth_plot.md)
