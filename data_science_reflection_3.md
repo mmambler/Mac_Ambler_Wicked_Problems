@@ -11,5 +11,7 @@ These capabilities could prove invaluable to coaches as they gain an even better
 ShotTracker has already been picked up and utilized by a number of Division I College Basketball programs, including TCU, Benedictine, and Air Force, and there are surely more to follow. Basketball is one of a number of sports that has lagged behind in terms of analytical innovation, but the game is slowly catching up with those ahead of the curve such as baseball. I would not be surprised if technologies such as ShotTracker become more and more prevalent in the coming years, and even make their way into the professional game, as players and coaches continue to find new ways to improve performance and win games.
 
 Sources:
+
 “Automatic, Real-Time Basketball Stats and Analytics.” ShotTracker, shottracker.com/. 
+
 Carp, Steve. “ShotTracker Is a Tool for Teams, Bettors.” GamingToday.com, Gaming Today, 4 Dec. 2019, www.gamingtoday.com/industry/article/87350-ShotTracker_is_a_tool_for_teams_bettors. 
