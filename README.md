@@ -35,3 +35,10 @@ This is the repository for my Wicked Problems projects.
 [Part 1 Plot](data_science_part_1.md)
 
 [Part 2 Plots](data_science_part_2.md)
+
+# Project 3
+
+[Project 3 Plots](project_3.md)
+
+
+
