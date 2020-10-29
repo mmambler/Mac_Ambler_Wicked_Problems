@@ -24,7 +24,7 @@ This is the repository for my Wicked Problems projects.
 
 [Data Science Reflection #3](data_science_reflection_3.md)
 
-[Data Science Reflection #4](data_science_reflection_1.md)
+[Data Science Reflection #4](data_science_reflection_4.md)
 
 ## Fundamentals
 
