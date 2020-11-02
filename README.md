@@ -46,5 +46,7 @@ This is the repository for my Wicked Problems projects.
 
 [Deliverable and Stretch Goals 1, 2, & 3](project_4.md)
 
+[Deliverable 2 and Stretch Goals 1 & 2](project_4_2.md)
+
 
 
