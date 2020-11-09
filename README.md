@@ -50,7 +50,7 @@ This is the repository for my Wicked Problems projects.
 
 # Project 5
 
-[Land Use and Land Cover Data Plots]()
+[Land Use and Land Cover Data Plots](project_5.md)
 
 
 
