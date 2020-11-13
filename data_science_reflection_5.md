@@ -1,5 +1,6 @@
-Data Science Reflection #5
-Mac Ambler
+# Data Science Reflection #5
+
+## Mac Ambler
 
 Since entering the age of the computer in the late-20th century and into the 21st, the human race has been constantly striving to advance ourselves and push technology to its very limits. These advancements opened the door for the new realm of data analysis and data science that afforded us the opportunity to observe the world in which we live in ways never before seen. The advent of data science serves to advance our understanding of complex adaptive, economic, and social systems by providing us with new ways to collect, observe, and analyze data in order to gain actionable insights and strengthened predictions.
 
