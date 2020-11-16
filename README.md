@@ -58,4 +58,8 @@ This is the repository for my Wicked Problems projects.
 
 [Accessibility 1](accessibility1.md)
 
+[Accessibility 2](accessibility2.md)
+
+[Accessibility 3](accessibility3.md)
+
 
