@@ -40,21 +40,21 @@ This is the repository for my Wicked Problems projects.
 
 [Part 2 Plots](data_science_part_2.md)
 
-# Project 3
+## Project 3
 
 [Project 3 Plots](project_3.md)
 
-# Project 4
+## Project 4
 
 [Deliverable and Stretch Goals 1, 2, & 3](project_4.md)
 
 [Deliverable 2 and Stretch Goals 1 & 2](project_4_2.md)
 
-# Project 5
+## Project 5
 
 [Land Use and Land Cover Data Plots](project_5.md)
 
-# Final Project
+## Final Project
 
 [Accessibility 1](accessibility1.md)
 
